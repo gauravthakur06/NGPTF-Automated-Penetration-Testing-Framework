@@ -142,19 +142,22 @@ Generate Report
 ### Home Screen
 
 ```
-Add screenshot here
+Add sc<img width="1920" height="982" alt="Screenshot_2026-04-16_04_21_00" src="https://github.com/user-attachments/assets/a08f1fc2-64f0-4214-b79a-9398670ed044" />
+reenshot here
 ```
 
 ### Scan Result
 
 ```
-Add screenshot here
+Add screen<img width="1920" height="1080" alt="Screenshot_2026-04-16_05_04_35" src="https://github.com/user-attachments/assets/55fe3db9-05d9-4906-9873-0c8ba453fcd2" />
+shot here
 ```
 
 ### Generated Report
 
 ```
-Add screenshot here
+Add screenshot here![Uploading Screenshot_2026-04-16_05_20_26.png…]()
+
 ```
 
 ---
