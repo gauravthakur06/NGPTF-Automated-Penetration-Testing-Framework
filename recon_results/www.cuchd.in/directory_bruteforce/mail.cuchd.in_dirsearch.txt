@@ -1,0 +1,132 @@
+# Dirsearch started Thu Apr 16 05:19:08 2026 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u mail.cuchd.in -e Gf-Patterns gf.sh install.sh README.md recom.sh recon.py recon_results reports ssrf-tool -o recon_results/www.cuchd.in/directory_bruteforce/mail.cuchd.in_dirsearch.txt
+
+403   312B   http://mail.cuchd.in/%2e%2e//google.com
+403   312B   http://mail.cuchd.in/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+301     0B   http://mail.cuchd.in/%ff    -> REDIRECTS TO: https://outlook.office365.com/%C3%BF?realm=cuchd.in&vd=mail
+301     0B   http://mail.cuchd.in/%C0%AE%C0%AE%C0%AF    -> REDIRECTS TO: https://outlook.office365.com/%C3%80%C2%AE%C3%80%C2%AE%C3%80%C2%AF?realm=cuchd.in&vd=mail
+403     0B   http://mail.cuchd.in/.well-known/acme-challenge
+403     0B   http://mail.cuchd.in/.well-known/acme-challenge/dtfy
+403     0B   http://mail.cuchd.in/.well-known/apple-developer-merchant-domain-association
+403     0B   http://mail.cuchd.in/.well-known/assetlinks.json
+403     0B   http://mail.cuchd.in/.well-known/ashrae
+403     0B   http://mail.cuchd.in/.well-known/apple-app-site-association
+403     0B   http://mail.cuchd.in/.well-known/browserid
+403     0B   http://mail.cuchd.in/.well-known/dnt
+403     0B   http://mail.cuchd.in/.well-known/caldav
+403     0B   http://mail.cuchd.in/.well-known/carddav
+403     0B   http://mail.cuchd.in/.well-known/ni
+403     0B   http://mail.cuchd.in/.well-known/dnt-policy.txt
+403     0B   http://mail.cuchd.in/.well-known/core
+403     0B   http://mail.cuchd.in/.well-known/csvm
+403     0B   http://mail.cuchd.in/.well-known/openid-configuration
+403     0B   http://mail.cuchd.in/.well-known/posh
+403     0B   http://mail.cuchd.in/.well-known/openorg
+403     0B   http://mail.cuchd.in/.well-known/est
+403     0B   http://mail.cuchd.in/.well-known/genid
+403     0B   http://mail.cuchd.in/.well-known/stun-key
+403     0B   http://mail.cuchd.in/.well-known/hoba
+403     0B   http://mail.cuchd.in/.well-known/time
+403     0B   http://mail.cuchd.in/.well-known/security.txt
+403     0B   http://mail.cuchd.in/.well-known/host-meta
+403     0B   http://mail.cuchd.in/.well-known/host-meta.json
+403     0B   http://mail.cuchd.in/.well-known/webfinger
+403     0B   http://mail.cuchd.in/.well-known/keybase.txt
+403     0B   http://mail.cuchd.in/.well-known/jwks.json
+403     0B   http://mail.cuchd.in/.well-known/jwks
+403     0B   http://mail.cuchd.in/.well-known/repute-template
+403     0B   http://mail.cuchd.in/.well-known/reload-config
+403     0B   http://mail.cuchd.in/.well-known/void
+403     0B   http://mail.cuchd.in/.well-known/timezone
+403   312B   http://mail.cuchd.in/\..\..\..\..\..\..\..\..\..\etc\passwd
+301     0B   http://mail.cuchd.in/a%5c.aspx    -> REDIRECTS TO: https://outlook.office365.com/a/.aspx?realm=cuchd.in&vd=mail
+301     0B   http://mail.cuchd.in/admin.    -> REDIRECTS TO: https://outlook.office365.com/admin?realm=cuchd.in&vd=mail
+403     0B   http://mail.cuchd.in/apc/
+403     0B   http://mail.cuchd.in/apc/apc.php
+403     0B   http://mail.cuchd.in/apc/index.php
+403     0B   http://mail.cuchd.in/api
+403     0B   http://mail.cuchd.in/api/api-docs
+403     0B   http://mail.cuchd.in/api/_swagger_/
+403     0B   http://mail.cuchd.in/api/api
+403     0B   http://mail.cuchd.in/api/__swagger__/
+403     0B   http://mail.cuchd.in/api/
+403     0B   http://mail.cuchd.in/api/index.html
+403     0B   http://mail.cuchd.in/api/2/explore/
+403     0B   http://mail.cuchd.in/api/error_log
+403     0B   http://mail.cuchd.in/api/application.wadl
+403     0B   http://mail.cuchd.in/api/apidocs
+403     0B   http://mail.cuchd.in/api/jsonws
+403     0B   http://mail.cuchd.in/api/apidocs/swagger.json
+403     0B   http://mail.cuchd.in/api/2/issue/createmeta
+403     0B   http://mail.cuchd.in/api/package_search/v4/documentation
+403     0B   http://mail.cuchd.in/api/profile
+403     0B   http://mail.cuchd.in/api/docs
+403     0B   http://mail.cuchd.in/api/config
+403     0B   http://mail.cuchd.in/api/docs/
+403     0B   http://mail.cuchd.in/api/batch
+403     0B   http://mail.cuchd.in/api/cask/graphql
+403     0B   http://mail.cuchd.in/api/spec/swagger.json
+403     0B   http://mail.cuchd.in/api/swagger
+403     0B   http://mail.cuchd.in/api/swagger-ui.html
+403     0B   http://mail.cuchd.in/api/swagger.json
+403     0B   http://mail.cuchd.in/api/swagger.yaml
+403     0B   http://mail.cuchd.in/api/v1/swagger.json
+403     0B   http://mail.cuchd.in/api/swagger.yml
+403     0B   http://mail.cuchd.in/api/v1/swagger.yaml
+403     0B   http://mail.cuchd.in/api/swagger/swagger
+403     0B   http://mail.cuchd.in/api/swagger/index.html
+403     0B   http://mail.cuchd.in/api/jsonws/invoke
+403     0B   http://mail.cuchd.in/api/timelion/run
+403     0B   http://mail.cuchd.in/api/v1
+403     0B   http://mail.cuchd.in/api/swagger/static/index.html
+403     0B   http://mail.cuchd.in/api/login.json
+403     0B   http://mail.cuchd.in/api/v2/swagger.yaml
+403     0B   http://mail.cuchd.in/api/snapshots
+403     0B   http://mail.cuchd.in/api/v2/
+403     0B   http://mail.cuchd.in/api/v2
+403     0B   http://mail.cuchd.in/api/v2/helpdesk/discover
+403     0B   http://mail.cuchd.in/api/proxy
+403     0B   http://mail.cuchd.in/api/v2/swagger.json
+403     0B   http://mail.cuchd.in/api/v3
+403     0B   http://mail.cuchd.in/api/vendor/phpunit/phpunit/phpunit
+403     0B   http://mail.cuchd.in/api/v4
+403     0B   http://mail.cuchd.in/api/whoami
+403     0B   http://mail.cuchd.in/api/version
+403     0B   http://mail.cuchd.in/api/swagger/ui/index
+403     0B   http://mail.cuchd.in/api/v1/
+301     0B   http://mail.cuchd.in/asset..    -> REDIRECTS TO: https://outlook.office365.com/asset?realm=cuchd.in&vd=mail
+401     0B   http://mail.cuchd.in/autodiscover/
+301     0B   http://mail.cuchd.in/axis2-web//HappyAxis.jsp    -> REDIRECTS TO: https://outlook.office365.com/axis2-web/HappyAxis.jsp?realm=cuchd.in&vd=mail
+301     0B   http://mail.cuchd.in/axis//happyaxis.jsp    -> REDIRECTS TO: https://outlook.office365.com/axis/happyaxis.jsp?realm=cuchd.in&vd=mail
+301     0B   http://mail.cuchd.in/axis2//axis2-web/HappyAxis.jsp    -> REDIRECTS TO: https://outlook.office365.com/axis2/axis2-web/HappyAxis.jsp?realm=cuchd.in&vd=mail
+301     0B   http://mail.cuchd.in/calendar    -> REDIRECTS TO: https://outlook.office365.com/calendar/?realm=cuchd.in&vd=mail
+403   312B   http://mail.cuchd.in/cgi-bin/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+301     0B   http://mail.cuchd.in/Citrix//AccessPlatform/auth/clientscripts/cookies.js    -> REDIRECTS TO: https://outlook.office365.com/Citrix/AccessPlatform/auth/clientscripts/cookies.js?realm=cuchd.in&vd=mail
+301     0B   http://mail.cuchd.in/engine/classes/swfupload//swfupload.swf    -> REDIRECTS TO: https://outlook.office365.com/engine/classes/swfupload/swfupload.swf?realm=cuchd.in&vd=mail
+301     0B   http://mail.cuchd.in/engine/classes/swfupload//swfupload_f9.swf    -> REDIRECTS TO: https://outlook.office365.com/engine/classes/swfupload/swfupload_f9.swf?realm=cuchd.in&vd=mail
+301     0B   http://mail.cuchd.in/ews/    -> REDIRECTS TO: https://mail.cuchd.in/ews/
+400     3KB  http://mail.cuchd.in/examples/jsp/%252e%252e/%252e%252e/manager/html/
+301     0B   http://mail.cuchd.in/extjs/resources//charts.swf    -> REDIRECTS TO: https://outlook.office365.com/extjs/resources/charts.swf?realm=cuchd.in&vd=mail
+301     0B   http://mail.cuchd.in/feed    -> REDIRECTS TO: https://outlook.office365.com/feed/?realm=cuchd.in&vd=mail
+301     0B   http://mail.cuchd.in/files    -> REDIRECTS TO: https://outlook.office365.com/files/?realm=cuchd.in&vd=mail
+301     0B   http://mail.cuchd.in/html/js/misc/swfupload//swfupload.swf    -> REDIRECTS TO: https://outlook.office365.com/html/js/misc/swfupload/swfupload.swf?realm=cuchd.in&vd=mail
+301     0B   http://mail.cuchd.in/index.php.    -> REDIRECTS TO: https://outlook.office365.com/index.php?realm=cuchd.in&vd=mail
+301     0B   http://mail.cuchd.in/javax.faces.resource.../    -> REDIRECTS TO: https://outlook.office365.com/javax.faces.resource/?realm=cuchd.in&vd=mail
+301     0B   http://mail.cuchd.in/javax.faces.resource.../WEB-INF/web.xml.jsf    -> REDIRECTS TO: https://outlook.office365.com/javax.faces.resource/WEB-INF/web.xml.jsf?realm=cuchd.in&vd=mail
+400     3KB  http://mail.cuchd.in/jolokia/exec/com.sun.management:type=DiagnosticCommand/help/*
+400     3KB  http://mail.cuchd.in/jolokia/read/java.lang:type=*/HeapMemoryUsage
+400     3KB  http://mail.cuchd.in/jolokia/search/*:j2eeType=J2EEServer,*
+301     0B   http://mail.cuchd.in/login.wdm%20    -> REDIRECTS TO: https://outlook.office365.com/login.wdm?realm=cuchd.in&vd=mail
+301     0B   http://mail.cuchd.in/login.wdm%2e    -> REDIRECTS TO: https://outlook.office365.com/login.wdm?realm=cuchd.in&vd=mail
+401     0B   http://mail.cuchd.in/microsoft-server-activesync/
+401     0B   http://mail.cuchd.in/Microsoft-Server-ActiveSync/
+301     0B   http://mail.cuchd.in/oab/    -> REDIRECTS TO: https://mail.cuchd.in/oab/
+301     0B   http://mail.cuchd.in/owa    -> REDIRECTS TO: https://outlook.office365.com/owa/?realm=cuchd.in&vd=mail
+301     0B   http://mail.cuchd.in/people    -> REDIRECTS TO: https://outlook.office365.com/people/?realm=cuchd.in&vd=mail
+301     0B   http://mail.cuchd.in/photos    -> REDIRECTS TO: https://outlook.office365.com/photos/?realm=cuchd.in&vd=mail
+301     0B   http://mail.cuchd.in/rating_over.    -> REDIRECTS TO: https://outlook.office365.com/rating_over?realm=cuchd.in&vd=mail
+401    13B   http://mail.cuchd.in/rpc/
+403     1KB  http://mail.cuchd.in/rpcwithcert/
+301     0B   http://mail.cuchd.in/servlet/%C0%AE%C0%AE%C0%AF    -> REDIRECTS TO: https://outlook.office365.com/servlet/%C3%80%C2%AE%C3%80%C2%AE%C3%80%C2%AF?realm=cuchd.in&vd=mail
+301     0B   http://mail.cuchd.in/static..    -> REDIRECTS TO: https://outlook.office365.com/static?realm=cuchd.in&vd=mail
+301     0B   http://mail.cuchd.in/WEB-INF./web.xml    -> REDIRECTS TO: https://outlook.office365.com/WEB-INF/web.xml?realm=cuchd.in&vd=mail
+301     0B   http://mail.cuchd.in/WEB-INF./    -> REDIRECTS TO: https://outlook.office365.com/WEB-INF/?realm=cuchd.in&vd=mail
