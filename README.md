@@ -38,8 +38,6 @@ Before running NGPTF, make sure the following are installed:
 - Nikto
 - SQLMap
 
-> Remove any tool that your project does not actually use.
-
 ---
 
 ## Installation
